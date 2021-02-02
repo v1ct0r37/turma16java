@@ -1,4 +1,4 @@
-package ExercicioAulas;
+package exercicioaulas;
 
 public class ClasseHello 
 {	
