@@ -31,7 +31,7 @@ public class DesafioWhile {
 			}
 			
 		}
-		
+			ler.close();
 		// calcular a media
 		
 		double media = total / quantidadeDeNotas;

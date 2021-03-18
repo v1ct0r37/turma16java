@@ -15,7 +15,7 @@ public class Console {
 		
 		System.out.printf("Sálario: %.1f", 1234.5678);
 		
-		int a = 3;
+		//int a = 3;
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.print("\nDigite o seu nome: ");
